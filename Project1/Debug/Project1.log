@@ -1,0 +1,61 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project1\project1\source.cpp(122): error C2672: 'getline': no matching overloaded function found
+c:\users\user\source\repos\project1\project1\source.cpp(122): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(160): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(122): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(149): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(122): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(129): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(122): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(126): error C2672: 'getline': no matching overloaded function found
+c:\users\user\source\repos\project1\project1\source.cpp(126): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(160): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(126): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(149): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(126): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(129): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(126): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(135): error C2065: 'say': undeclared identifier
+c:\users\user\source\repos\project1\project1\source.cpp(161): error C3688: invalid literal suffix 'a'; literal operator or literal operator template 'operator ""a' not found
+c:\users\user\source\repos\project1\project1\source.cpp(175): error C2672: 'getline': no matching overloaded function found
+c:\users\user\source\repos\project1\project1\source.cpp(175): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(160): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(175): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(149): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(175): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(129): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(175): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(178): error C2672: 'getline': no matching overloaded function found
+c:\users\user\source\repos\project1\project1\source.cpp(178): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(160): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(178): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(149): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(178): error C2784: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': could not deduce template argument for 'std::basic_string<_Elem,_Traits,_Alloc> &' from 'int'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(129): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(178): error C2780: 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(76): note: see declaration of 'std::getline'
+c:\users\user\source\repos\project1\project1\source.cpp(181): error C2275: 'std::ios': illegal use of this type as an expression
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iosfwd(615): note: see declaration of 'std::ios'
+c:\users\user\source\repos\project1\project1\source.cpp(181): error C2143: syntax error: missing ')' before ':'
+c:\users\user\source\repos\project1\project1\source.cpp(181): error C2143: syntax error: missing ';' before ':'
+c:\users\user\source\repos\project1\project1\source.cpp(181): error C2059: syntax error: ':'
+c:\users\user\source\repos\project1\project1\source.cpp(181): error C2059: syntax error: ')'
+c:\users\user\source\repos\project1\project1\source.cpp(187): error C2065: 'say': undeclared identifier
+c:\users\user\source\repos\project1\project1\source.cpp(218): error C2065: 'say': undeclared identifier
+c:\users\user\source\repos\project1\project1\source.cpp(243): error C2678: binary '<<': no operator found which takes a left-hand operand of type 'std::istream' (or there is no acceptable conversion)
+  c:\users\user\source\repos\project1\project1\source.cpp(243): note: could be 'built-in C++ operator<<(bool, int)'
+  c:\users\user\source\repos\project1\project1\source.cpp(243): note: while trying to match the argument list '(std::istream, int)'
+c:\users\user\source\repos\project1\project1\source.cpp(281): error C2678: binary '==': no operator found which takes a left-hand operand of type 'std::string' (or there is no acceptable conversion)
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(284): note: could be 'bool std::operator ==(const std::error_condition &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(278): note: or       'bool std::operator ==(const std::error_condition &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(272): note: or       'bool std::operator ==(const std::error_code &,const std::error_condition &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\system_error(266): note: or       'bool std::operator ==(const std::error_code &,const std::error_code &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(331): note: or       'bool std::operator ==(const std::exception_ptr &,std::nullptr_t) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(326): note: or       'bool std::operator ==(std::nullptr_t,const std::exception_ptr &) noexcept'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\exception(321): note: or       'bool std::operator ==(const std::exception_ptr &,const std::exception_ptr &) noexcept'
+  c:\users\user\source\repos\project1\project1\source.cpp(281): note: while trying to match the argument list '(std::string, int)'
+c:\users\user\source\repos\project1\project1\source.cpp(346): error C2562: 'cıkıs': 'void' function returning a value
+  c:\users\user\source\repos\project1\project1\source.cpp(345): note: see declaration of 'cıkıs'
